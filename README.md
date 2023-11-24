@@ -20,9 +20,8 @@ Features:
 
 Glimpses of the Developed Application
 -------------------------------------
-
-![WhatsApp Image 2023-11-25 at 1 09 14 AM](https://github.com/HardikSJain/WomenShield/assets/71220869/e5f88458-9672-4de5-92d4-41bc9236b7e0)
-![WhatsApp Image 2023-11-25 at 1 09 14 AM (1)](https://github.com/HardikSJain/WomenShield/assets/71220869/929d7d71-21cc-4ebd-bc65-fa7f6a36edd5)
+<img src="https://github.com/HardikSJain/WomenShield/assets/71220869/e5f88458-9672-4de5-92d4-41bc9236b7e0" alt="screenshot1" width="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/HardikSJain/WomenShield/assets/71220869/929d7d71-21cc-4ebd-bc65-fa7f6a36edd5" alt="screenshot1" width="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 Workflow Diagram
